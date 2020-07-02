@@ -1,0 +1,25 @@
+{
+  "client-id": "object-id()",
+  "client-name": "Mike Bob",
+  "tags": ["ilg", "internal", "csbt", "overall nice guy"],
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus libero ante, convallis sit amet dui ac, dictum convallis felis. Mauris elementum tellus mattis, varius neque vitae, laoreet eros. Vivamus cursus lacinia gravida. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi iaculis, urna sed placerat vestibulum, metus libero tincidunt lectus, ac tristique eros orci quis magna. Vestibulum a enim purus. Etiam ac dolor arcu.",
+  "assignees": ["ivan", "Josh", "Fred"],
+  "relationship-score": 12,
+  "projects": [
+    {
+      "name": "Tunnel stuff",
+      "description": "lorem ipsum...",
+      "status": "active",
+      "date-started": "12/12/2012",
+      "deadline": "12/12/2020"
+    }
+  ],
+  "interactions": [
+    {
+      "title": "project meeting",
+      "date": "20/11/2000",
+      "description": "lorem ipsum...",
+      "score": 76
+    }
+  ]
+}
