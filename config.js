@@ -1,2 +1,2 @@
-module.exports = { DB_NAME: "dev_crm" };
-// module.exports = { DB_NAME: "prod_crm" };
+module.exports = { DB_NAME: "development" };
+// module.exports = { DB_NAME: "production" };
